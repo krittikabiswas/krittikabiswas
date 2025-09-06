@@ -65,12 +65,16 @@
 - Insta vibes: [@your_insta](https://www.instagram.com/)  
 - LinkedIn creep: [Krittika Biswas](https://www.linkedin.com/)  
 
-![Krittika's GitHub stats](https://github-readme-stats.vercel.app/api?username=krittikabiswas&show_icons=true&theme=dark&count_private=true) -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krittikabiswas&layout=compact&theme=dark)
 
 ![Coffee Lover](https://img.shields.io/badge/Coffee-Lover-brown?style=for-the-badge&logo=coffee&logoColor=white)
 ![Misti Doi Addict](https://img.shields.io/badge/Misti_Doi-❤-pink?style=for-the-badge)
 
 
+![Krittika's GitHub stats](https://github-readme-stats.vercel.app/api?username=krittikabiswas&show_icons=true&theme=dark&count_private=true) -->
+
+## 🧸 Top Languages
+These are the languages I use most on GitHub:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krittikabiswas&layout=compact&theme=dark)
 
 > “Code hard, nap harder, yap hardest” 😴

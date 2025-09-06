@@ -9,6 +9,12 @@
 - Lowkey obsessed with making things visually aesthetic💙 and yapping💅
 - **Cannot say no to misti doi** 🤤 (seriously, it’s life)
 
+## ⚡ My Roles
+
+[![Coding Junction - President](https://img.shields.io/badge/Coding_Junction-💼%20President-8FBC8F?style=for-the-badge&colorA=8FBC8F&colorB=DCDCDC)](https://github.com/Coding-Junction-Club)
+[![NSS - Volunteer](https://img.shields.io/badge/NSS-💼%20Volunteer-8FBC8F?style=for-the-badge&colorA=8FBC8F&colorB=DCDCDC)]()
+[![Placement - Coordinator](https://img.shields.io/badge/Placement-💼%20Coordinator-8FBC8F?style=for-the-badge&colorA=8FBC8F&colorB=DCDCDC)]()
+
 
 ## 🛠️ Techy Stuff
 
@@ -54,11 +60,17 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
- 
-
 <!--
 ## 📫 Connect with me
 - Insta vibes: [@your_insta](https://www.instagram.com/)  
-- LinkedIn creep: [Krittika Biswas](https://www.linkedin.com/)  -->
+- LinkedIn creep: [Krittika Biswas](https://www.linkedin.com/)  
+
+![Krittika's GitHub stats](https://github-readme-stats.vercel.app/api?username=krittikabiswas&show_icons=true&theme=dark&count_private=true) -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krittikabiswas&layout=compact&theme=dark)
+
+![Coffee Lover](https://img.shields.io/badge/Coffee-Lover-brown?style=for-the-badge&logo=coffee&logoColor=white)
+![Misti Doi Addict](https://img.shields.io/badge/Misti_Doi-❤-pink?style=for-the-badge)
+
+
 
 > “Code hard, nap harder, yap hardest” 😴

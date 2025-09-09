@@ -72,9 +72,11 @@
 
 ![Krittika's GitHub stats](https://github-readme-stats.vercel.app/api?username=krittikabiswas&show_icons=true&theme=dark&count_private=true) -->
 
-## 🧸 Top Languages
-These are the languages I use most on GitHub:
+## 🧸 GitHub Streaks & Stats  
+ ![Krittika's GitHub Streak](https://streak-stats.demolab.com?user=krittikabiswas&theme=dark&hide_border=true)  ![Krittika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krittikabiswas&show_icons=true&theme=dark&hide_border=true) 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krittikabiswas&layout=compact&theme=dark)
+
+## 🧸 Top Languages  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krittikabiswas&layout=compact&theme=dark&hide_border=true)
 
 > “Code hard, nap harder, yap hardest” 😴

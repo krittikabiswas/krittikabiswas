@@ -1,4 +1,4 @@
-# Nomoskaar 🤭, I'm Krittika Biswas!  
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=150&section=header&text=Nomoskaar%20🤭%20I'm%20Krittika!&fontColor=E60073&fontSize=40&fontAlignY=35)
 
 🎓 4th-year IT student | 🖥️ Web Dev & tech experimenter |  ⬜ Powered by sondesh & procrastination🤌🏻
 
@@ -64,18 +64,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<!--
-## 📫 Connect with me
-- Insta vibes: [@your_insta](https://www.instagram.com/)  
-- LinkedIn creep: [Krittika Biswas](https://www.linkedin.com/)  
-
-
-![Coffee Lover](https://img.shields.io/badge/Coffee-Lover-brown?style=for-the-badge&logo=coffee&logoColor=white)
-![Misti Doi Addict](https://img.shields.io/badge/Misti_Doi-❤-pink?style=for-the-badge)
-
-
-![Krittika's GitHub stats](https://github-readme-stats.vercel.app/api?username=krittikabiswas&show_icons=true&theme=dark&count_private=true) -->
-
 ## 🧸 GitHub Streaks & Stats  
 <table>
   <tr>
@@ -90,8 +78,9 @@
 
 ## 🧸 Top Languages  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krittikabiswas&layout=compact&hide_border=true&bg_color=FFC0CB&title_color=E60073&text_color=000000)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=krittikabiswas&color=FFC0CB&style=for-the-badge" alt="Profile Views"/>
+</p>
 
 
-
-
-> “Code hard, nap harder, yap hardest” 😴
+![footer](https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=100&section=footer&text=😴%20Code%20Hard,%20Nap%20Harder%20🤌🏻&fontColor=E60073&fontSize=25)

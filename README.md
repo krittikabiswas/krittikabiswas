@@ -71,7 +71,7 @@
       <img src="https://streak-stats.demolab.com?user=krittikabiswas&hide_border=true&background=FFC0CB&ring=FF1493&fire=FF1493&currStreakLabel=E60073"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=krittikabiswas&show_icons=true&hide_border=true&bg_color=FFC0CB&title_color=E60073&icon_color=FF1493&text_color=000000"/>
+      <img src="https://github-readme-stats-j3o6meev8-krittika-biswas-projects.vercel.app/api?username=krittikabiswas&show_icons=true&hide_border=true&bg_color=FFC0CB&title_color=E60073&icon_color=FF1493&text_color=000000&count_private=true"/>
     </td>
   </tr>
 </table>

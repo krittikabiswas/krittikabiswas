@@ -72,8 +72,7 @@
     </td>
     
  <td>
-
-  <img src="https://github-readme-stats-7tetmnd45-krittika-biswas-projects.vercel.app/api?username=krittikabiswas&show_icons=true&hide_border=true&bg_color=FFC0CB&title_color=E60073&icon_color=FF1493&text_color=000000&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=krittikabiswas&show_icons=true&hide_border=true&bg_color=FFC0CB&title_color=E60073&icon_color=FF1493&text_color=000000&count_private=true"/>
 </td>
 
   </tr>

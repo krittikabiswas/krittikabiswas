@@ -77,6 +77,9 @@
   </tr>
 </table>
 
+## 🍯 Socials
+<p align="left"> <a href="https://www.instagram.com/yap.like.me" target="_blank"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/> </a> <a href="https://www.linkedin.com/in/krittikabiswas" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white" alt="LinkedIn"/> </a> <a href="https://x.com/KrittikaBi17142" target="_blank"> <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=X&logoColor=white" alt="Twitter"/> </a> <a href="mailto:krittikabiswas805@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/> </a> </p>
+
 ## 🧸 Top Languages  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krittikabiswas&layout=compact&hide_border=true&bg_color=FFC0CB&title_color=E60073&text_color=000000)
 <p align="center">
